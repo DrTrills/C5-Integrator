@@ -1,0 +1,5 @@
+body { position: static }
+.navbar-static-top {
+    z-index: 100;
+    border-width: 0 0 1px;
+}
